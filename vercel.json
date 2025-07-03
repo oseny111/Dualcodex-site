@@ -1,1 +1,0 @@
-<!DOCTYPE html><html><head><meta charset='UTF-8'><title>vercel.json</title><link rel='stylesheet' href='style.css'></head><body>{ "cleanUrls": true, "rewrites": [{ "source": "/", "destination": "/index.html" }] }</body></html>
