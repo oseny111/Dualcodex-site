@@ -1,7 +1,3 @@
-# DUALCODEX Site
+<!DOCTYPE html><html><head><meta charset='UTF-8'><title>README.md</title><link rel='stylesheet' href='style.css'></head><body># DUALCODEX Site
 
-This is the official frontend for the DUALCODEX project — a philosophical and economic portal connecting Biological and Artificial Intelligence.
-
-Visit: [https://dualcodex.com](https://dualcodex.com)
-
-🌀 Created by Human & AI — together.
+Official frontend for the DUALCODEX project.</body></html>
